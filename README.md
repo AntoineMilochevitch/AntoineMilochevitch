@@ -9,12 +9,13 @@ I enjoy building robust backend systems, exploring machine learning models, and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntoineMILOCHEVITCH&show_icons=true&theme=github_dark&hide=issues&count_private=true" alt="Antoine's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineMILOCHEVITCH&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AntoineMilochevitch&show_icons=true&theme=github_dark&hide=issues&count_private=true" alt="Antoine's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineMilochevitch&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
 ### 🐍 Contribution Snake
-![Snake animation](https://github.com/AntoineMILOCHEVITCH/AntoineMILOCHEVITCH/blob/output/github-contribution-grid-snake.svg)
+![Snake animation dark](https://github.com/AntoineMilochevitch/AntoineMilochevitch/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
 ---
 
