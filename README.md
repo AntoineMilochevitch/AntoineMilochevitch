@@ -10,7 +10,7 @@ I enjoy building robust backend systems, exploring machine learning models, and 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntoineMilochevitch&show_icons=true&theme=github_dark&hide=issues&count_private=true" alt="Antoine's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineMilochevitch&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineMilochevitch&layout=compact&theme=github_dark&hide=c++" alt="Top Langs" />
 </p>
 
 ### 🐍 Contribution Snake
